@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotsLoadingComponent">
+        <attr name="dotColor" format="string"/>
+        <attr name="numberOfDots" format="integer"/>
+        <attr name="startAnimation" format="boolean"/>
+        <attr name="animationDuration" format="integer"/>
+        <attr name="dotMargin" format="float"/>
+        <attr name="dotSize" format="float"/>
+        <attr name="dotSrc" format="reference"/>
+        <attr name="dotType">
+            <enum name="dot" value="0"/>
+            <enum name="square" value ="1"/>
+            <enum name="resource" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
