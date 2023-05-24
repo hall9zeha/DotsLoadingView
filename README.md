@@ -54,6 +54,17 @@ dependencies{
         />
 ...
 ```
+* When using the dotSrc field it must be placed in the dotType resource property
+
+```xml
+  <com.barryzeha.dotsloadingview.components.DotsLoadingComponent
+       
+        app:dotSrc="@drawable/ic_my_drawable"
+        app:dotType="resource"
+        app:startAnimation="true"
+        />
+
+```
 ## Screenshots
 ||||
 |--|--|--|
