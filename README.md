@@ -54,3 +54,8 @@ dependencies{
         />
 ...
 ```
+## Screenshots
+||||
+|--|--|--|
+|Dot Type(for default) |Square Type|Resource Type (drawable custom)|
+|<img src="https://github.com/hall9zeha/DotsLoadingView/blob/main/screenshots/captura1.gif" width=80% height=80% />|<img src="https://github.com/hall9zeha/DotsLoadingView/blob/main/screenshots/captura2.gif" width=80% height=80% />|<img src="https://github.com/hall9zeha/DotsLoadingView/blob/main/screenshots/captura3.gif" width=80% height=80% />|
