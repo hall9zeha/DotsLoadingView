@@ -42,15 +42,17 @@ dependencies{
         android:id="@+id/myDotLoading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        app:dotColor="?attr/colorAccent"
+        app:dotSize="20"
+        app:animationDuration="1000"                                                        
+        app:numberOfDots="4"
+        app:dotMargin="4"                                                         
+        app:dotType="dot"
+        app:startAnimation="true"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:dotColor="?attr/colorAccent"
-        app:dotSize="20"
-        app:numberOfDots="4"
-        app:dotType="dot"
-        app:startAnimation="true"
+        app:layout_constraintTop_toTopOf="parent"                                                          
         />
 ...
 ```
