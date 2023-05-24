@@ -1,4 +1,4 @@
-package com.barryzeha.dotsloadingview
+package com.barryzeha.dotsloading
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

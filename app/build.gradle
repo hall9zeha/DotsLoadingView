@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.barryzeha.dotsloadingview'
+    namespace 'com.barryzeha.dotsloading'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.barryzeha.dotsloadingview"
+        applicationId "com.barryzeha.dotsloading"
         minSdk 22
         targetSdk 33
         versionCode 1

@@ -13,6 +13,7 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:id="@+id/dotsLoading"
+    app:dotMargin="4"
     app:startAnimation="true"
     app:numberOfDots="4"
     app:dotSize="30"
