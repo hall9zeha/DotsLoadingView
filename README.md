@@ -1,10 +1,12 @@
 
 # DotsLoadingView
+
 <p align="center">
 <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 <a href="https://github.com/hall9zeha/DotsLoadingView/actions"><img alt="Build Status" src="https://github.com/hall9zeha/DotsLoadingView/workflows/DotsLoadingView/badge.svg"/></a> 
-[![](https://jitpack.io/v/hall9zeha/DotsLoadingView.svg)](https://jitpack.io/#hall9zeha/DotsLoadingView)
+<a href="https://jitpack.io/#hall9zeha/DotsLoadingView"><img alt="License" src="https://jitpack.io/v/hall9zeha/DotsLoadingView.svg"/></a>
 </p>
+
 Open source library that displays a loading view with a custom drawable
 
 ## How to use
