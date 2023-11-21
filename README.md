@@ -19,6 +19,9 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         maven { url 'https://jitpack.io' } //here
+
+        //When you are using the Kotlin DSL for build.gradle.kts 
+        maven {url = uri("https://jitpack.io")}
     }
 }
 ```
@@ -41,6 +44,9 @@ allprojects {
 dependencies{
     ...
     implementation 'com.github.hall9zeha:DotsLoadingView:2.0.0'
+
+    //When you are using the Kotlin DSL for build.gradle.kts
+    implementation ("com.github.hall9zeha:DotsLoadingView:2.0.0")
 }
 ```
 * Xml layout
